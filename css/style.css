@@ -12,6 +12,6 @@ h1{
 }
 
 img{
-    border: solid royalblue 5px;
+    border: dotted royalblue 5px;
     border-radius: 20px;
 }
