@@ -10,3 +10,8 @@ h1{
     text-transform: uppercase;
     color: cornflowerblue;
 }
+
+img{
+    border: solid royalblue 5px;
+    border-radius: 20px;
+}
